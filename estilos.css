@@ -20,7 +20,7 @@ body {
     text-decoration: none;
   }
 
-  .container {
+  .contenido {
     padding: 1.5rem;
   }
 
@@ -29,12 +29,12 @@ body {
     height: auto;
   }
 
-  .dark-mode {
+  .modooscuro {
     background-color: #121212;
     color: #e0e0e0;
   }
 
-  .mode-toggle {
+  .boton {
     background-color: transparent;
     border: 0.2rem solid white;
     color: white;
@@ -44,7 +44,7 @@ body {
     font-size: 1rem;
   }
 
-  .dark-mode .mode-toggle {
+  .dark-mode .boton {
     border-color: #e0e0e0;
     color: #e0e0e0;
   }
